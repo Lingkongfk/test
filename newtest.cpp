@@ -3,4 +3,5 @@
 int main(){
 	
 	std::cout<<"test"<<std::endl;
+	std::cout<<"this is test";
 }
